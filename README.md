@@ -1,10 +1,10 @@
 # vmware_vrealzie_audit
 This is a small script that follow to VMWare vRealize Security Guide
 
-###Secure Configuration Guide
+### Secure Configuration Guide
 03 May 2018
 
-####vRealize Automation 7.3
+#### Realize Automation 7.3
 
 https://docs.vmware.com/en/vRealize-Automation/7.2/vrealize-automation-72-hardening.pdf
 
